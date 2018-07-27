@@ -35,7 +35,7 @@ def iterate_through_hash
 end
 
 
-iterate_through_hash
+# iterate_through_hash
 
 
 # def iterate_through_keys
